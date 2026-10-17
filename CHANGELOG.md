@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-10-17 — AGENTS.md links to CLAUDE.md
+
+- AGENTS.md held the guide and CLAUDE.md was absent; the content moved to CLAUDE.md unchanged and AGENTS.md now links to it, so both names read the same file. (Estate rule in ~/AG_Code/CLAUDE.md; found by agcode-context-check.)
+
 ## [6.3.0](https://github.com/morluto/rea/compare/rea-agents-6.2.0...rea-agents-6.3.0) (2026-10-09)
 
 
